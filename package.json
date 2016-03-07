@@ -9,7 +9,7 @@
     "cssnano": "^3.5.2"
   },
   "devDependencies": {
-    "babel-eslint": "^4.1.8",
+    "babel-eslint": "^5.0.0",
     "eslint": "^1.10.3"
   },
   "scripts": {
