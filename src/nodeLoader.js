@@ -1,6 +1,6 @@
 /* eslint-env node */
 import AbstractLoader from './abstractLoader.js';
-import cssnano from 'cssnano';
+import cssnano from 'node-cssnano';
 import fs from 'fs';
 import path from 'path';
 
