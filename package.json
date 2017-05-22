@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "description": "A CSS Modules + PostCSS plugin loader for JSPM.",
   "dependencies": {
-    "css-modules-loader-core": "^1.0.0-beta2",
+    "css-modules-loader-core": "^1.1.0",
     "cssnano": "^3.5.2"
   },
   "devDependencies": {
