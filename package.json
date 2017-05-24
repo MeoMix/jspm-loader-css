@@ -16,7 +16,7 @@
     "chai": "^3.5.0",
     "chai-fs": "^1.0.0",
     "eslint": "^2.3.0",
-    "mocha": "^3.2.0",
+    "mocha": "^3.4.2",
     "mocha-lazy-bdd": "^0.1.2",
     "rimraf": "^2.6.1",
     "systemjs-builder": "^0.16.4"
