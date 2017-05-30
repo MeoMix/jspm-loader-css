@@ -19,7 +19,7 @@
     "mocha": "^3.2.0",
     "mocha-lazy-bdd": "^0.1.2",
     "rimraf": "^2.6.1",
-    "systemjs-builder": "^0.16.4"
+    "systemjs-builder": "^0.16.6"
   },
   "scripts": {
     "bin": "$@",
